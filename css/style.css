@@ -1,0 +1,35 @@
+/* Najem nzayen el page mta3i */
+/* Chneya ezzina + chkoun n7ab nzaynou bezina haki */
+/* 
+    kifech nekteb css 
+    1- Fichier externe (e7ssass :D Separation of concerns)
+    2- Fi balise style fel head 
+    3- Inline fel balise directement (plus prioritaire) 
+*/
+/* Selecteur */
+/* Class */
+.nomClass {
+  color: green;
+}
+/* id */
+#nomId {
+  color: blue;
+}
+div {
+  border: red solid 2px;
+}
+/* balise */
+/* 
+div {
+  border: black solid 2px;
+} */
+span {
+  border: yellow solid 2px;
+}
+
+/* 
+
+    x = 4
+
+    x = 5
+*/
